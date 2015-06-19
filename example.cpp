@@ -1,5 +1,8 @@
 //This is an example file
 #include <Accel.h>
+#include <Gyro.h>
+#include <Magnet.h>
+#include <Pressure.h>
 
 void setup()
 	Accel      .init();
